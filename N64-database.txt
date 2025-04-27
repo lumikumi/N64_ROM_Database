@@ -907,10 +907,14 @@ ID:NAB___ eeprom512|rpak|cpak # Air Boarder 64
 ID:NAC___ cpak|rpak # Army Men - Air Combat
 ID:NAD___ eeprom512 # Worms Armageddon
 ID:NAF___ flash128k|cpak|rtc # Doubutsu no Mori [Animal Forest]
+ID:_AF___ flash128k|cpak|rtc # Doubutsu no Mori [Animal Forest] CHS iQue (save Hack)
+ID:AF____ flash128k|cpak|rtc # Doubutsu no Mori [Animal Forest] CHS iQue (save Hack)
 ID:NAG___ eeprom512 # AeroGauge
 ID:NAH___ cpak|rpak # Asteroids Hyper 64
 ID:NAI___ cpak # Midway's Greatest Arcade Hits Volume 1
 ID:NAL___ sram32k|rpak # Super Smash Bros. [Nintendo All-Star! Dairantou Smash Brothers]
+ID:_AL___ sram32k|rpak # Super Smash Bros. [Nintendo All-Star! Dairantou Smash Brothers] CHS iQue (save Hack)
+ID:AL____ sram32k|rpak # Super Smash Bros. [Nintendo All-Star! Dairantou Smash Brothers] CHS iQue (save Hack)
 ID:NAM___ cpak|rpak # Army Men - Sarge's Heroes
 ID:NAR___ cpak|rpak # Armorines - Project S.W.A.R.M.
 ID:NAS___ cpak|rpak # All-Star Baseball 2001
@@ -963,6 +967,8 @@ ID:NCT___ eeprom512|rpak # Chameleon Twist
 ID:NCU___ eeprom512|cpak # Cruis'n USA
 ID:NCW___ eeprom2k|rpak # Cruis'n World
 ID:NCX___ eeprom512 # Custom Robo
+ID:_CX___ eeprom512 # Custom Robo CHS iQue (save Hack)
+ID:CX____ eeprom512 # Custom Robo CHS iQue (save Hack)
 ID:NCY___ # South Park - Chef's Luv Shack
 ID:NCZ___ eeprom2k|rpak # Custom Robo V2
 ID:ND2___ eeprom2k|rpak # Doraemon 2: Nobita to Hikari no Shinden
@@ -1013,8 +1019,11 @@ ID:NFS___ cpak # Famista 64
 ID:NFU___ eeprom2k|rpak # Conker's Bad Fur Day
 ID:NFW___ eeprom512|rpak # F-1 World Grand Prix
 ID:NFX___ eeprom512|rpak # Star Fox 64 [Lylat Wars]
+ID:NFX___ eeprom512|rpak # Star Fox 64  CHS iQue (save Hack)
+ID:NFX___ eeprom512|rpak # Star Fox 64  CHS iQue (save Hack)
 ID:NFY___ eeprom512|rpak|cpak # Kakutou Denshou: F-Cup Maniax
 ID:_FZ___ sram32k|rpak # F-Zero X
+ID:FZ____ sram32k|rpak # F-Zero X CHS iQue (save Hack)
 ID:NG2___ cpak|rpak # Extreme-G XG2
 ID:NG5___ cpak|rpak # Ganbare Goemon - Neo Momoyama Bakufu no Odori [Mystical Ninja Starring Goemon]
 ID:NG6___ sram32k|rpak # Ganmare Goemon: Dero Dero Douchuu Obake Tenkomori
@@ -1033,6 +1042,8 @@ ID:NGR___ eeprom512|rpak|cpak # Top Gear Rally
 ID:NGS___ cpak # Jikkyou G1 Stable
 ID:NGT___ eeprom2k|rpak|cpak # City Tour GrandPrix - Zen Nihon GT Senshuken
 ID:NGU___ eeprom512|rpak # Tsumi to Batsu: Hoshi no Keishousha [Sin and Punishment]
+ID:_GU___ eeprom512|rpak # Tsumi to Batsu: Hoshi no Keishousha [Sin and Punishment] CHS iQue (save Hack)
+ID:GU____ eeprom512|rpak # Tsumi to Batsu: Hoshi no Keishousha [Sin and Punishment] CHS iQue (save Hack)
 ID:NGV___ eeprom512 # Glover
 ID:NGX___ cpak|rpak # Gauntlet Legends
 ID:NH5___ cpak # Nagano Winter Olympics '98 [Hyper Olympics in Nagano]
@@ -1087,6 +1098,8 @@ ID:NKK___ cpak|rpak # Knockout Kings 2000
 ID:NKM___ cpak # Pro Mahjong Kiwame 64
 ID:NKR___ cpak # Rakuga Kids
 ID:NKT___ eeprom512|cpak # Mario Kart 64
+ID:KT____ eeprom512|cpak # Mario Kart 64 CHS iQue (save Hack)
+ID:_KT___ eeprom512|cpak # Mario Kart 64 CHS iQue (save Hack)
 ID:NL2___ cpak|rpak # Top Gear Rally 2
 ID:_LB___ eeprom512|rpak # Mario Party
 ID:NLC___ cpak|rpak # Automobili Lamborghini [Super Speed Race 64]
@@ -1116,6 +1129,8 @@ ID:NMN___ # Mini Racers (Prototype)
 ID:NMO___ eeprom512 # Monopoly
 ID:NMP___ # Mario no Photopie
 ID:NMQ___ flash128k|rpak # Paper Mario
+ID:MQ____ flash128k|rpak # Paper Mario CHS iQue (save Hack)
+ID:_MQ___ flash128k|rpak # Paper Mario CHS iQue (save Hack)
 ID:NMR___ eeprom512|rpak|cpak # Multi-Racing Championship
 ID:NMSE__ cpak|rpak # Duke Nukem 64 (Beta)
 ID:NMS___ eeprom512|cpak # Morita Shougi 64
@@ -1124,10 +1139,14 @@ ID:NMU___ eeprom512|rpak|cpak # Big Mountain 2000
 ID:NMV___ eeprom2k|rpak # Mario Party 3
 ID:NMW___ eeprom512|rpak # Mario Party 2
 ID:NMX___ eeprom2k|rpak|cpak # Excitebike 64
+ID:_MX___ eeprom2k|rpak|cpak # Excitebike 64 CHS iQue (save Hack)
+ID:MX____ eeprom2k|rpak|cpak # Excitebike 64 CHS iQue (save Hack)
 ID:NMY___ cpak|rpak # Mortal Kombat Mythologies - Sub-Zero
 ID:NMZ___ eeprom512|cpak # Zool - Majou Tsukai Densetsu
 ID:NN2___ cpak|rpak # Nascar 2000
 ID:NN6___ eeprom512 # Dr. Mario 64
+ID:_N6___ eeprom512 # Dr. Mario 64 CHS iQue (save Hack)
+ID:N6____ eeprom512 # Dr. Mario 64 CHS iQue (save Hack)
 ID:NNA___ eeprom512|rpak # Star Wars Episode I: Battle for Naboo
 ID:NNB___ eeprom2k|rpak|cpak # Kobe Bryant in NBA Courtside
 ID:NNC___ cpak|rpak # Nightmare Creatures
@@ -1217,6 +1236,8 @@ ID:NSK___ cpak|rpak # Snowboard Kids [Snobow Kids]
 ID:NSL___ cpak|rpak # Spider-Man
 ID:NSM_03 eeprom512|rpak # Super Mario 64 - Shindou Edition 
 ID:NSM___ eeprom512 # Super Mario 64
+ID:_SM___ eeprom512 # Super Mario 64 CHS iQue (save Hack)
+ID:SM____ eeprom512 # Super Mario 64 CHS iQue (save Hack)
 ID:NSN___ eeprom512|rpak|cpak # Snow Speeder
 ID:NSO___ cpak # NBA Showtime - NBA on NBC
 ID:NSP___ cpak|rpak # Superman
@@ -1290,6 +1311,8 @@ ID:NWP___ cpak|rpak # Wipeout 64
 ID:NWQ___ cpak|rpak # Rally Challenge 2000
 ID:NWR_02 eeprom512|rpak|cpak # Wave Race 64 Shindou Edition
 ID:NWR___ eeprom512|cpak # Wave Race 64
+ID:_WR___ eeprom512|cpak # Wave Race 64 CHS iQue (save Hack)
+ID:WR____ eeprom512|cpak # Wave Race 64 CHS iQue (save Hack)
 ID:NWS___ cpak # International Superstar Soccer '98 [Jikkyo World Soccer - World Cup France '98]
 ID:NWTJ__ eeprom512 # Wetrix
 ID:NWT___ cpak # Wetrix
@@ -1309,11 +1332,16 @@ ID:NY2___ cpak # Rayman 2 - The Great Escape
 ID:NYK___ eeprom512|rpak # Yakouchuu II: Satsujin Kouro
 ID:NYP___ cpak|rpak # Paperboy
 ID:NYS___ eeprom2k|rpak # Yoshi's Story
+ID:_YS___ eeprom2k|rpak # Yoshi's Story CHS iQue (save Hack)
+ID:YS____ eeprom2k|rpak # Yoshi's Story CHS iQue (save Hack)
 ID:NYWJ__ sram32k|cpak # Bokujou Monogatari 2 [Harvest Moon 64]
 ID:NYW___ sram32k # Harvest Moon 64
 ID:_ZL___ sram32k|rpak # Legend of Zelda: Ocarina of Time [Zelda no Densetsu - Toki no Ocarina]
+ID:ZL___ sram32k|rpak # Legend of Zelda: Ocarina of Time [Zelda no Densetsu - Toki no Ocarina] CHS iQue (save Hack)
 ID:NZO___ cpak|rpak # Battlezone - Rise of the Black Dogs
 ID:NZS___ flash128k|rpak # Legend of Zelda: Majora's Mask [Zelda no Densetsu - Mujura no Kamen]
+ID:_ZS___ flash128k|rpak # Legend of Zelda: Majora's Mask [Zelda no Densetsu - Mujura no Kamen] CHS iQue (save Hack)
+ID:ZS____ flash128k|rpak # Legend of Zelda: Majora's Mask [Zelda no Densetsu - Mujura no Kamen] CHS iQue (save Hack)
 ID:ZCA___ ntsc|cic5101|eeprom512|rpak # Magical Tetris Challenge (Aleck 64)
 ID:ZHA___ ntsc|cic5101 # Eleven Beat - World Tournament (Aleck64)
 ID:ZHB___ ntsc|cic5101|eeprom512 # Star Soldier - Vanishing Earth Arcade (Aleck64)
